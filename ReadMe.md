@@ -109,6 +109,7 @@ If you have run out of energy or time for your project, put a note at the top of
 
 ## Resources
 1.Images DeepLearning.ai stable diffusion short course
+2. Setup cudnn on [ubuntu](https://fizzylogic.nl/2022/11/02/how-to-set-up-cuda-and-pytorch-in-ubuntu-22-04-on-wsl2)
 ## Citing Original model
 
 If you use <MODEL_NAME> or 
